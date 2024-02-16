@@ -1,0 +1,14 @@
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\bin\Debug\net6.0\ConAppNumberSystem.exe
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\bin\Debug\net6.0\ConAppNumberSystem.deps.json
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\bin\Debug\net6.0\ConAppNumberSystem.runtimeconfig.json
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\bin\Debug\net6.0\ConAppNumberSystem.dll
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\bin\Debug\net6.0\ConAppNumberSystem.pdb
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.AssemblyInfoInputs.cache
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.AssemblyInfo.cs
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.csproj.CoreCompileInputs.cache
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.dll
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\refint\ConAppNumberSystem.dll
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.pdb
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ConAppNumberSystem.genruntimeconfig.cache
+E:\others\csharp\ConAppNumberSystem\ConAppNumberSystem\obj\Debug\net6.0\ref\ConAppNumberSystem.dll
